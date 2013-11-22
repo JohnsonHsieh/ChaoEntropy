@@ -1,0 +1,4 @@
+export(ChaoEntropy)
+export(Count2Abun)
+export(Count2Inci)
+export(Matrix2Inci)
